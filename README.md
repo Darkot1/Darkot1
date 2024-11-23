@@ -26,7 +26,7 @@
 
 ## 📈 Estadísticas
 
-!Darkot1(https://github-readme-stats.vercel.app/api?username=Darkot1&show_icons=true&theme=radical)
+![Tu nombre de usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkot1&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkot1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
