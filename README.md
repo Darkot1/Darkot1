@@ -9,10 +9,15 @@ Soy un estudiante de desarrollo de software interesado en la programación, tecn
 ## 🧑‍💻 Sobre mí
 
 - 📚 Actualmente aprendiendo: **Spring Boot**, **Laravel**, **React.js**, **Vue.js**.
-- 🔭 Trabajando en: **Plataforma de rifas** (¡Próximamente más detalles!).
 - 🌟 Objetivo actual: Mejorar mis habilidades en desarrollo backend y arquitectura de software.
 - 🎯 Intereses: Desarrollo web, APIs RESTful, DevOps, diseño de sistemas y optimización de aplicaciones.
-- 💡 Buscando colaborar en proyectos emocionantes que marquen la diferencia.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Darkot1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkot1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkot1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -49,14 +54,6 @@ Una aplicación web diseñada para la gestión de rifas en línea. Incluye:
 - **Diseño intuitivo y adaptativo.**
 
 **Tecnologías:** [Laravel](https://laravel.com/), [Vue.js](https://vuejs.org/), [MySQL](https://www.mysql.com/).  
-**Enlace:** (Próximamente)
-
----
-
-## 📈 Estadísticas de GitHub
-
-![Darkot1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkot1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkot1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
