@@ -55,7 +55,7 @@ Soy un estudiante de desarrollo de software interesado en la programación, tecn
 
 ## 🌟 Mis proyectos destacados
 
-### 🚀 Plataforma de rifas
+### 🎟️ Plataforma de rifas
 Una aplicación web diseñada para la gestión de rifas en línea. Incluye:
 - **Gestión de usuarios.**
 - **Integración con pasarelas de pago.**
@@ -64,14 +64,15 @@ Una aplicación web diseñada para la gestión de rifas en línea. Incluye:
 **Tecnologías:** [Laravel](https://laravel.com/), [Vue.js](https://vuejs.org/), [MySQL](https://www.mysql.com/).  
 
 
-### 🚀 Gestion de turnos
-Una aplicación web diseñada para la gestion de clinicas de un laboratorio. Incluye:
-- **Gestión de modulos.**
-- **Asignacion de turnos a modulos existentes.**
-- **Generacion de turnos dependiendo de su necesidad.**
+### 🏥 Gestión de turnos
+Una aplicación web diseñada para la gestión de clínicas y laboratorios. Incluye:
+- **Gestión de módulos.**
+- **Asignación de turnos a módulos existentes.**
+- **Generación de turnos dependiendo de su necesidad.**
 - **Diseño intuitivo y adaptativo.**
 
 **Tecnologías:** [Laravel](https://laravel.com/), [Vue.js](https://vuejs.org/), [MySQL](https://www.mysql.com/).
+
 ---
 
 ## 🤝 Conecta conmigo
