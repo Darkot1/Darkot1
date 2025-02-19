@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Sebastian Serna Arango 🚀
 
-### 💻 Desarrollador en formación | 🌱 Apasionado por el aprendizaje continuo
+<div align="center">
+  <h3>💻 Desarrollador en formación | 🌱 Apasionado por el aprendizaje continuo</h3>
+</div>
 
 Soy un estudiante de desarrollo de software interesado en la programación, tecnologías modernas y buenas prácticas. Me encanta resolver problemas, construir soluciones eficientes y aprender nuevas herramientas. 🚀
 
@@ -16,6 +18,8 @@ Soy un estudiante de desarrollo de software interesado en la programación, tecn
 
 ## 🛠️ Tecnologías y herramientas
 
+<div align="center">
+  
 ### Lenguajes
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -36,12 +40,15 @@ Soy un estudiante de desarrollo de software interesado en la programación, tecn
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
+</div>
+
 ---
 
+## 📊 GitHub Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkot1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Estadísticas de GitHub"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darkot1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Lenguajes más usados"  />
 </div>
 
 ---
@@ -60,9 +67,13 @@ Una aplicación web diseñada para la gestión de rifas en línea. Incluye:
 
 ## 🤝 Conecta conmigo
 
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu_usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darkot1)
+
+</div>
 
 ---
 
@@ -87,4 +98,3 @@ public class SebastianSerna {
         sebastian.introduceMyself();
     }
 }
-
