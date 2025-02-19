@@ -14,13 +14,6 @@ Soy un estudiante de desarrollo de software interesado en la programación, tecn
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Darkot1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkot1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkot1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes
@@ -42,6 +35,13 @@ Soy un estudiante de desarrollo de software interesado en la programación, tecn
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Darkot1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkot1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkot1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
