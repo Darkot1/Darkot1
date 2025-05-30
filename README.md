@@ -1,28 +1,30 @@
 # 👋 ¡Hola! Soy Sebastian Serna Arango 🚀
 
 <div align="center">
-  <h3>💻 Desarrollador en formación | 🌱 Apasionado por el aprendizaje continuo</h3>
+  <h3>💻 Desarrollador Full Stack | 🌱 Apasionado por el aprendizaje continuo</h3>
 </div>
 
-Soy un estudiante de desarrollo de software interesado en la programación, tecnologías modernas y buenas prácticas. Me encanta resolver problemas, construir soluciones eficientes y aprender nuevas herramientas. 🚀
+Soy un **desarrollador Full Stack** con experiencia en el desarrollo de aplicaciones web modernas utilizando tecnologías como **Angular**, **Vue.js**, **Laravel**, **Spring Boot** y más. Me motiva crear soluciones eficientes, escalables y bien estructuradas, aplicando buenas prácticas de desarrollo y manteniéndome siempre en constante aprendizaje. 🚀
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-- 📚 Actualmente aprendiendo: **Spring Boot**, **Laravel**, **React.js**, **Vue.js**.
-- 🌟 Objetivo actual: Mejorar mis habilidades en desarrollo backend y arquitectura de software.
-- 🎯 Intereses: Desarrollo web, APIs RESTful, DevOps, diseño de sistemas y optimización de aplicaciones.
+- 🔭 Actualmente trabajando en: Aplicaciones web escalables con arquitectura limpia.
+- 📚 Fortaleciendo conocimientos en: **DevOps**, **Cloud Computing**, **arquitectura de software**.
+- ⚙️ Enfocado en: Desarrollo backend, diseño de APIs RESTful, patrones de diseño y automatización de despliegues.
+- 🎯 Intereses: Desarrollo web, sistemas distribuidos, CI/CD, buenas prácticas y optimización de rendimiento.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 <div align="center">
-  
+
 ### Lenguajes
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -32,13 +34,14 @@ Soy un estudiante de desarrollo de software interesado en la programación, tecn
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 ### Herramientas y DevOps
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://en.wikipedia.org/wiki/NoSQL)
 
 </div>
 
@@ -47,31 +50,31 @@ Soy un estudiante de desarrollo de software interesado en la programación, tecn
 ## 📊 GitHub Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkot1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Estadísticas de GitHub"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darkot1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Lenguajes más usados"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkot1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darkot1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
 
-## 🌟 Mis proyectos destacados
+## 🌟 Proyectos destacados
 
 ### 🎟️ Plataforma de rifas
-Una aplicación web diseñada para la gestión de rifas en línea. Incluye:
-- **Gestión de usuarios.**
-- **Integración con pasarelas de pago.**
-- **Diseño intuitivo y adaptativo.**
+Aplicación web para gestionar rifas en línea:
+- Gestión de usuarios.
+- Integración con pasarelas de pago.
+- Interfaz responsiva y moderna.
 
-**Tecnologías:** [Laravel](https://laravel.com/), [Vue.js](https://vuejs.org/), [MySQL](https://www.mysql.com/).  
+**Tecnologías:** Laravel, Vue.js, MySQL
 
+---
 
-### 🏥 Gestión de turnos
-Una aplicación web diseñada para la gestión de clínicas y laboratorios. Incluye:
-- **Gestión de módulos.**
-- **Asignación de turnos a módulos existentes.**
-- **Generación de turnos dependiendo de su necesidad.**
-- **Diseño intuitivo y adaptativo.**
+### 🏥 Sistema de gestión de turnos
+App web para la gestión de clínicas/laboratorios:
+- Asignación dinámica de turnos.
+- Gestión de módulos/taquillas.
+- Visualización en tiempo real.
 
-**Tecnologías:** [Laravel](https://laravel.com/), [Vue.js](https://vuejs.org/), [MySQL](https://www.mysql.com/).
+**Tecnologías:** Laravel, Vue.js, MySQL
 
 ---
 
@@ -92,9 +95,9 @@ Una aplicación web diseñada para la gestión de clínicas y laboratorios. Incl
 ```java
 public class SebastianSerna {
     private String name = "Sebastian Serna Arango";
-    private String[] code = {"Java", "JavaScript", "PHP", "HTML", "CSS"};
-    private String[] tools = {"Spring Boot", "Laravel", "React", "Vue.js", "Docker", "Git"};
-    private String[] currentlyLearning = {"DevOps", "Cloud Computing", "Vue.js"};
+    private String[] code = {"Java", "TypeScript", "JavaScript", "PHP", "HTML", "CSS"};
+    private String[] tools = {"Spring Boot", "Laravel", "React", "Vue.js", "Angular", "Docker", "Git"};
+    private String[] currentlyLearning = {"DevOps", "Cloud Computing"};
     private String[] hobbies = {"Videojuegos", "Películas de ciencia ficción", "Caminar"};
 
     public void introduceMyself() {
