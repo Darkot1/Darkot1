@@ -32,7 +32,6 @@ Soy un **desarrollador Full Stack** con experiencia en el desarrollo de aplicaci
 ### Frameworks y Librerías
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
@@ -50,10 +49,16 @@ Soy un **desarrollador Full Stack** con experiencia en el desarrollo de aplicaci
 ## 📊 GitHub Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkot1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darkot1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkot1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darkot1&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkot1&layout=compact&langs_count=5&theme=radical&hide_border=true" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Darkot1&theme=radical&hide_border=true" />
+
 </div>
 
 ---
